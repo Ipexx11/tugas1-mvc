@@ -1,0 +1,19 @@
+{
+    "name": "harun/si-mvc",
+    "description": "Tugas 2 PBWL-MVC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "HarunYahya",
+            "email": "harunyahya1910@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
